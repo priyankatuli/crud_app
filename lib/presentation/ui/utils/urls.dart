@@ -6,7 +6,4 @@ class Urls{
      static String updateProductListUrls (String productId) => '$_baseUrl/UpdateProduct/$productId';
      static const String createProductListUrls = '$_baseUrl/CreateProduct';
 
-
-
-
 }
