@@ -4,8 +4,6 @@ import 'package:crud_app/presentation/ui/utils/urls.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 
-
-
 class AddUpdateScreen extends StatefulWidget{
 
   final ProductModel product;
