@@ -15,7 +15,6 @@ class AddProductListScreen extends StatefulWidget{
 
 }
 
-
 class _AddProductListScreenState extends State<AddProductListScreen>{
 
   final TextEditingController _nameTEController = TextEditingController();
