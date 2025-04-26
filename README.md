@@ -1,6 +1,6 @@
 # crud_app
 
-A new Flutter project.
+crud project with Rest-APIs
 
 ## Getting Started
 
