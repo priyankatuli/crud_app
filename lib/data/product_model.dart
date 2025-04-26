@@ -7,6 +7,7 @@ class ProductModel {
   String ? quantity;
   String ? totalPrice;
 
+
   ProductModel.fromJson(Map<String, dynamic>json){
     id = json['_id'] ;
     productName = json['ProductName'];
